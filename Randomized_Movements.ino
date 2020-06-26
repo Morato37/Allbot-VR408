@@ -1,8 +1,8 @@
 /*VR408
- * Copyright (C) 2014 Velleman nv
+ * Allbot VR408
  *
- * This software may be modified and distributed under the terms
- * of the MIT license.  See the LICENSE file for details.
+ * With this code the Allbot VR408 will perform a random 
+ * sequence of diffrent movements
  *
  */
  
